@@ -1,0 +1,14 @@
+{
+  "name": "cypress-approach-03",
+  "version": "1.0.0",
+  "description": "test e2e",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "andres uzeda",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.8.0"
+  }
+}
